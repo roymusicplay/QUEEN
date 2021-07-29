@@ -6,7 +6,7 @@ import aiofiles
 import aiohttp
 from pyrogram import filters
 
-from DaisyX.services.pyrogram import pbot as LYCIA
+from queen.services.pyrogram import pbot as LYCIA
 
 
 async def fetch(url):
