@@ -1,16 +1,16 @@
 {
-  "name": "DaisyX",
+  "name": "Queen",
   "description": "?",
   "keywords": [
     "telegram",
-    "Daisy",
+    "Queen",
     "plugin",
     "telegram-DaisyX",
     "fuck-TG"
   ],
   "repository": "https://github.com/TeamDaisyX/Daisy-x",
   "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "success_url": "https://t.me/DOSTI_GROUP_1234",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
