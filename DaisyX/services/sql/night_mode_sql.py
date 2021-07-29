@@ -13,7 +13,7 @@
 
 from sqlalchemy import Column, String
 
-from DaisyX.services.sql import BASE, SESSION
+from queen.services.sql import BASE, SESSION
 
 
 class Nightmode(BASE):
