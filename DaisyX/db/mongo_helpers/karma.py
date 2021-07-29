@@ -1,4 +1,4 @@
-from DaisyX.services.mongo2 import db
+from Abhinas.services.mongo2 import db
 
 karmadb = db.karma2
 
